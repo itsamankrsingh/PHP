@@ -1,4 +1,21 @@
-<?php
-echo "Namaste World";
-echo 5+95;
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <?php
+            echo "This is ";
+            echo "Title";
+        ?></title>
+</head>
+<body>
+    
+    <?php
+        echo "Namaste World1  ";
+    ?>
+</body>
+</html>
+
+
